@@ -1,3 +1,4 @@
+// Ezek jó helyen vannak itt? Zártak a modulok?
 var express = require("express")();
 var add = require("./add.js");
 
